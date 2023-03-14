@@ -1,7 +1,7 @@
-def is_pos_neg(n):
-    if n > 0:
-        return "Число положительное"
-    elif n < 0:
-        return "Число отрицательное"
-    else:
-        return "Это 0"
+"""from calculator.calculator_funcs import read_input, calculator
+x, x1, sign = read_input()
+print(x, sign, x1, end=" = ")
+result = calculator(x, x1, sign)
+if result is not None:
+    print(result)"""
+
